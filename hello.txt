@@ -2,3 +2,4 @@ merhaba github
 windowstan merhaba
 pycharmdan merhaba
 falan filan
+nasılsım
