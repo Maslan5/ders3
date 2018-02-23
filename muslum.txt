@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 biþeyler yaoýyoruz
 ad
+=======
+biï¿½eyler yaoï¿½yoruz
+falan filan
+>>>>>>> f82d509207baf9c1385c3c94d4cae9f1a6129fbc
